@@ -1,5 +1,5 @@
 # DevJobs.API
-Projeto de criação de uma API responsável por gerenciar vagas de emprego. <i>Desenvolvido durante a semana Jornada .NET Direto ao Ponto - [Luis_Dev]("https://www.luisdev.com.br")</i>
+Projeto de criação de uma API responsável por gerenciar vagas de emprego. <i>Desenvolvido durante a semana Jornada .NET Direto ao Ponto - [Luis_Dev](https://www.luisdev.com.br)</i>
 
 Durante a semana foram aborados os seguintes pontos:
 * Criação de uma API REST (DevJobs) do zero utilizando C# e .NET 6;
