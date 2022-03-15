@@ -8,3 +8,12 @@ Durante a semana foram aborados os seguintes pontos:
 * Criação de Logs utilizando Serilog;
 * Documentação da API com Swagger;
 * Publicação no Microsoft Azure
+
+<small>
+Para inicializar o projeto:
+* Instalar o dotnet-sdk-6.*
+* Rodar os comando no terminal:
+    * dotnet build
+    * dotnet run
+* Acessar o link (Ex: https://localhost:7070/swagger)
+</small>
